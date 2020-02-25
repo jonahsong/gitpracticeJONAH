@@ -1,7 +1,7 @@
 # Partner 1: Jonah Song
 # Partner 2: Isabelle Torch
-###########################
-# Assignment Name: GitHub Practice - 20 Points
+##############################
+# Assignment Name: GitHub Practice (2/25/20) - 20 Points
 
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
