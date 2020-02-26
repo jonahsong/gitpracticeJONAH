@@ -7,7 +7,7 @@ import random
 
 def getNRandom(n):
     '''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
-    n = int(input("Input an integer. "))   
+    n = int(n)   
     numbers = []
     for i in range(n):
         numbers.append(random.randint(1,10))
